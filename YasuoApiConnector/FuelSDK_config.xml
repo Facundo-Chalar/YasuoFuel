@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSignature>none</appSignature>
+  <clientId>!!!!INSERT YOUR OWN ID HERE</clientId>
+  <clientSecret>Insert your own sercret key here!</clientSecret>
+  <soapEndPoint>https://webservice.s7.exacttarget.com/Service.asmx</soapEndPoint>
+</configuration>

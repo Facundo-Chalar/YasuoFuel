@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSignature>none</appSignature>
+  <clientId>hne0w4g81y92bidt76pyp3g9</clientId>
+  <clientSecret>6ABM5KZ4et3Z3yyb5kORvuFj</clientSecret>
+  <soapEndPoint>https://webservice.s7.exacttarget.com/Service.asmx</soapEndPoint>
+</configuration>

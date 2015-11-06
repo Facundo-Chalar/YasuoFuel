@@ -1,0 +1,15 @@
+C:\Users\fchalar\Desktop\Desarrollo\Yasuo\YasuoApiConnector\YasuoApiConnector\bin\Release\YasuoApiConnector.exe.config
+C:\Users\fchalar\Desktop\Desarrollo\Yasuo\YasuoApiConnector\YasuoApiConnector\bin\Release\YasuoApiConnector.exe
+C:\Users\fchalar\Desktop\Desarrollo\Yasuo\YasuoApiConnector\YasuoApiConnector\bin\Release\YasuoApiConnector.pdb
+C:\Users\fchalar\Desktop\Desarrollo\Yasuo\YasuoApiConnector\YasuoApiConnector\bin\Release\CSharpSDK.dll
+C:\Users\fchalar\Desktop\Desarrollo\Yasuo\YasuoApiConnector\YasuoApiConnector\bin\Release\HelperDatabase_fw4.dll
+C:\Users\fchalar\Desktop\Desarrollo\Yasuo\YasuoApiConnector\YasuoApiConnector\bin\Release\Quartz.dll
+C:\Users\fchalar\Desktop\Desarrollo\Yasuo\YasuoApiConnector\YasuoApiConnector\bin\Release\Newtonsoft.Json.dll
+C:\Users\fchalar\Desktop\Desarrollo\Yasuo\YasuoApiConnector\YasuoApiConnector\bin\Release\Common.Logging.Core.dll
+C:\Users\fchalar\Desktop\Desarrollo\Yasuo\YasuoApiConnector\YasuoApiConnector\bin\Release\Common.Logging.dll
+C:\Users\fchalar\Desktop\Desarrollo\Yasuo\YasuoApiConnector\YasuoApiConnector\bin\Release\CSharpSDK.pdb
+C:\Users\fchalar\Desktop\Desarrollo\Yasuo\YasuoApiConnector\YasuoApiConnector\bin\Release\Quartz.pdb
+C:\Users\fchalar\Desktop\Desarrollo\Yasuo\YasuoApiConnector\YasuoApiConnector\bin\Release\Quartz.xml
+C:\Users\fchalar\Desktop\Desarrollo\Yasuo\YasuoApiConnector\YasuoApiConnector\obj\x86\Release\YasuoApiConnector.exe
+C:\Users\fchalar\Desktop\Desarrollo\Yasuo\YasuoApiConnector\YasuoApiConnector\obj\x86\Release\YasuoApiConnector.pdb
+C:\Users\fchalar\Desktop\Desarrollo\Yasuo\YasuoApiConnector\YasuoApiConnector\obj\x86\Release\YasuoApiConnector.csprojResolveAssemblyReference.cache
