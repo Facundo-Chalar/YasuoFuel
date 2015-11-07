@@ -54,10 +54,10 @@ namespace YasuoApiConnector
                 }
                     string subject = send.Subject;
                     string status = send.Status;
-
+                    
                     if (!subject.StartsWith("Test Send") && status.Equals("Complete")){
                         string previewUrl = send.PreviewURL;
-                        string domain = "placeholder";
+                        string domain = send.FromAddress;
                         string templateName = "placeholdertemplate";
                         DateTime sentDate = send.SendDate;
                         

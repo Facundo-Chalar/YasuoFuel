@@ -22,3 +22,6 @@ C:\Users\fchalar\Desktop\Desarrollo\Yasuo\YasuoApiConnector\YasuoApiConnector\bi
 D:\Programacion\RepositorioGit\YasuoApiConnector\YasuoApiConnector\bin\Debug\YasuoApiConnector.exe.config
 D:\Programacion\RepositorioGit\YasuoApiConnector\YasuoApiConnector\obj\x86\Debug\YasuoApiConnector.exe
 D:\Programacion\RepositorioGit\YasuoApiConnector\YasuoApiConnector\obj\x86\Debug\YasuoApiConnector.pdb
+D:\Programacion\RepositorioGit\YasuoFuel\YasuoApiConnector\bin\Debug\YasuoApiConnector.exe.config
+D:\Programacion\RepositorioGit\YasuoFuel\YasuoApiConnector\obj\x86\Debug\YasuoApiConnector.exe
+D:\Programacion\RepositorioGit\YasuoFuel\YasuoApiConnector\obj\x86\Debug\YasuoApiConnector.pdb
