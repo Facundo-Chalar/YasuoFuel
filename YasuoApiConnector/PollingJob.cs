@@ -58,9 +58,9 @@ namespace YasuoApiConnector
                     if (!subject.StartsWith("Test Send") && status.Equals("Complete")){
                         string previewUrl = send.PreviewURL;
                         string domain = send.FromAddress;
-                        string templateName = "placeholdertemplate";
+                        string templateName = send.EmailName;
                         DateTime sentDate = send.SendDate;
-                        
+                        int targetedNumber = send.NumberTargeted;
 
                       
                         conexionBD.Connect();
