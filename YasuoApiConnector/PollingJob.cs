@@ -61,6 +61,7 @@ namespace YasuoApiConnector
                         string templateName = send.EmailName;
                         DateTime sentDate = send.SendDate;
                         int targetedNumber = send.NumberTargeted;
+                        int uniqueClicks = send.UniqueClicks;
 
                       
                         conexionBD.Connect();
