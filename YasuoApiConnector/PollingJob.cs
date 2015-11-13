@@ -62,6 +62,7 @@ namespace YasuoApiConnector
                         DateTime sentDate = send.SendDate;
                         int targetedNumber = send.NumberTargeted;
                         int uniqueClicks = send.UniqueClicks;
+                        string fromAdress = send.FromAddress;
 
                       
                         conexionBD.Connect();
