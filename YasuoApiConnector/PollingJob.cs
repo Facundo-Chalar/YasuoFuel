@@ -63,6 +63,7 @@ namespace YasuoApiConnector
                         int targetedNumber = send.NumberTargeted;
                         int uniqueClicks = send.UniqueClicks;
                         string fromAdress = send.FromAddress;
+                        string fromName = send.FromName;
 
                       
                         conexionBD.Connect();
